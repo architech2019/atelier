@@ -1,0 +1,12 @@
+p{
+    background-color: aqua;            
+}
+#titre1{
+    color: #ff0000;
+    text-decoration-line: underline;
+    font-size: 60px;
+    font-weight: lighter;
+}
+.titre2{
+    color: blueviolet;
+}
